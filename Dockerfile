@@ -1,4 +1,4 @@
-FROM golang:1.17-ubuntu
+FROM golang:1.18-ubuntu
 
 WORKDIR /app
 
