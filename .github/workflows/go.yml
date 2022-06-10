@@ -34,4 +34,4 @@ jobs:
       uses: docker/build-push-action@v2
       with:
         push: true
-        tags: lintangp/belajar-cicd:latest
+        tags: octa12/belajar-cicd:latest
