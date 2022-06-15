@@ -11,5 +11,5 @@ func main() {
 	log.Println("listening on port 3000...")
 	http.ListenAndServe(":3000", nil)
 	fmt.Println("Hello World!")
-	adsis2
+	fmt.Println("Hello semuaa!")
 }
