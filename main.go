@@ -4,7 +4,6 @@ import (
 	"log"
 	"net/http"
 )
-import ("fmt")
 
 func main() {
 	http.Handle("/", http.FileServer(http.Dir("./static")))
