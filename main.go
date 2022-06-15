@@ -12,4 +12,5 @@ func main() {
 	http.ListenAndServe(":3000", nil)
 	fmt.Println("Hello World!")
 	fmt.Println("Hello semuaa!")
+	adsiss 3
 }
